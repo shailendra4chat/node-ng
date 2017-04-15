@@ -1,0 +1,14 @@
+{
+  "name": "node-angular1",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.5.8",    
+    "angular-sanitize": "1.5.8",
+    "angular-ui-router": "0.2.18",    
+    "bootstrap": "3.3.5"
+  },
+  "resolutions": {
+    "angular": "1.5.8"
+  },
+  "appPath": "./client/"
+}
